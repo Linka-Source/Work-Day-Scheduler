@@ -1,4 +1,4 @@
-let currentTime = dayjs().format('MMMM D, YYYY');
+let currentTime = dayjs().format('dddd, MMMM D, YYYY h:mm A');
 console.log(currentTime);
 
 function displayTime(){
