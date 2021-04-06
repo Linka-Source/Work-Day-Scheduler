@@ -45,6 +45,8 @@ $(".save-button").on("click", function(){
     localStorage.setItem(hour, input);
 })  
 
+var timeTracker = function () {
+
 function timeTracker() {
     var timeNow = dayjs().hour();
 
