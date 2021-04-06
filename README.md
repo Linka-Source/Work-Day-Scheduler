@@ -35,5 +35,7 @@ The following screenshot shows the deployed application:
 
 //insert screenshot
 
+Link to deplyed application:
+https://linka-source.github.io/Work-Day-Scheduler/
 
 
