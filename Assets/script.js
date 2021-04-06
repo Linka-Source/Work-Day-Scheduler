@@ -50,4 +50,6 @@ function timeTracker() {
 
 timeTracker();
 
+}
+    
 });
