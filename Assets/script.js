@@ -37,7 +37,7 @@ displayTime()
 $(document).ready(function() {
 
 
-$(".save-button").on("click", function(){
+$(".save-button").on("click", function() {
     const hour = $(this).parent().attr("id")
     console.log(hour)
     const input = $(this).parent().siblings(".task").val();
@@ -45,7 +45,7 @@ $(".save-button").on("click", function(){
     localStorage.setItem(hour, input);
 })  
 
-var timeTracker = function () {
+// var timeTracker = function () {
 
 function timeTracker() {
     var timeNow = dayjs().hour();
