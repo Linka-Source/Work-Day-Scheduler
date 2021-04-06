@@ -30,11 +30,9 @@ WHEN I refresh the page
 THEN the saved events persist
 ```
 
-The following screenshot shows the deployed application:
+Attached screenshot shows the deployed application.
 
-
-
-//insert screenshot
+Link to deployed application: https://linka-source.github.io/Work-Day-Scheduler/
 
 
 
